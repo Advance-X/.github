@@ -1,12 +1,15 @@
-## Hi there 👋
+## GEPROIC Advance-X | Bienvenidos 👋
 
-<!--
+🙋‍♀️ Somos una empresa enfocada en la innovación y en el desarrollo de soluciones para la Industria 4.0
+🌎 Estamos ubicados en Chile, en múltiples regiones a lo largo del país.
+🔎 Nos dedicamos 100% a buscar lo mejor para nuestros clientes, con un equipo multidisciplinario a bordo.
+👩‍💻 Pertenecemos al grupo GEPROIC, que inicia actividades en el año 2018.
 
-**Here are some ideas to get you started:**
+--
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## GEPROIC Advance-X | Welcome 👋
+
+🙋‍♀ We are a company focused on innovation and the development of solutions for Industry 4.0
+🌎 We are located in Chile, in multiple regions across the country.
+🔎 We are 100% dedicated to seek the best for our clients, with a multidisciplinary team on board. 
+👩‍💻 We belong to the GEPROIC group, which started activities in 2018.
